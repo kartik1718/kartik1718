@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently working on Spark ETLs<br>I'm currently learning spark streaming<br>Ask me for any help in python ETLs
+I'm currently working on Spark ETLs and I'm currently learning spark streaming<br>Ask me for any help in python,Spark ETLs
 
 
 ## 🌐 Socials:
